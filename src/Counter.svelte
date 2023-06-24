@@ -4,7 +4,7 @@
     count += 1
   }
 </script>
-<!--Add this line to your web component-->
+
 <svelte:options tag="my-counter" />
 
 <button on:click={increment}>
